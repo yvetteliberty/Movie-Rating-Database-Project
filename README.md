@@ -35,7 +35,8 @@ This project helps me practice real-world database concepts such as schema desig
  - title	VARCHAR(150)	Movie title
  - genre	VARCHAR(50)	Movie genre
  - release_year	INT	Year the movie premiered
-
+- Directors VARCHAR(100)  directors of the movie.
+  
 3️⃣ Ratings Table
 - rating_id	INT (PK)	Unique rating ID
 - user_id	INT (FK)	References Users(user_id)
