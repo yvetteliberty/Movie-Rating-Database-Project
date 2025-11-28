@@ -215,4 +215,35 @@ View All Ratings
                JOIN ratings r ON u.User_id = r.User_id
                 GROUP BY u.Location
                 order by Total_rating DESC;
+ ###  🎯 Business Insight
 
+ The SQL analysis shows that:
+
+ - Adult users (25+) and female users in Abuja form highly engaged user groups.
+
+- Recent films (2000–2023) and non-Sci-Fi genres dominate user interest.
+
+- Top-rated movies and top-rating users are key drivers of platform engagement.
+
+- Genres with high average ratings should be prioritized for recommendations.
+
+-  Location patterns can be used for targeted marketing.
+
+### ⭐Recommendations
+
+- Focus on users aged 25+ who are the most active.
+
+- Promote modern movies (2000–2023) since they attract the most ratings.
+
+- Target Abuja users, especially females, who engage more.
+
+- Highlight movies with average ratings of 4.0 and above.
+
+- Prioritize popular genres other than Sci-Fi.
+
+- Encourage active users with badges or rewards.
+
+- Use location-based trends to improve content suggestions.
+  
+## Connect with me on my socials:
+[Linkedln](www.linkedin.com/in/yvettemefendja)
