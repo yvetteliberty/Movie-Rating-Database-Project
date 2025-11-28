@@ -109,6 +109,11 @@ INSERT INTO ratings (user_id, movie_id, rating_value, rating_date) VALUES
 (4, 2, 4.8, '2024-06-07'),
 (4, 8, 4.9, '2024-06-08');
 
+### ER Diagram 
+This diagram shows the relationship between  the three tables .
+![](https://github.com/yvetteliberty/Movie-Rating-Database-Project/blob/main/ER%20DIAGRAM.jpg)
+
+
 ### 🔍 Data Exploration Queries
 View All Users
 
